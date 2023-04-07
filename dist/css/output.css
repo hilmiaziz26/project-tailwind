@@ -568,6 +568,10 @@ video {
   margin-bottom: 0.75rem;
 }
 
+.mr-1 {
+  margin-right: 0.25rem;
+}
+
 .mr-2 {
   margin-right: 0.5rem;
 }
@@ -582,10 +586,6 @@ video {
 
 .mt-2 {
   margin-top: 0.5rem;
-}
-
-.mr-3 {
-  margin-right: 0.75rem;
 }
 
 .flex {
@@ -616,8 +616,8 @@ video {
   width: 20px;
 }
 
-.w-\[25px\] {
-  width: 25px;
+.w-\[23px\] {
+  width: 23px;
 }
 
 .w-\[330px\] {
@@ -637,12 +637,8 @@ video {
   width: max-content;
 }
 
-.w-\[22px\] {
-  width: 22px;
-}
-
-.w-\[23px\] {
-  width: 23px;
+.shrink-0 {
+  flex-shrink: 0;
 }
 
 .cursor-pointer {
